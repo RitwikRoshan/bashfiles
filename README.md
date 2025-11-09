@@ -63,7 +63,7 @@ If **--output** option was not specified, keyboard control is available:
 
 # How to build?
 
-* <code>git clone https://github.com/mukovnin/psfiles</code>
+* <code>git clone :- https://github.com/RitwikRoshan/bashfiles.git</code>
 * <code>cd psfiles</code>
 * <code>cmake . -B build</code>
 * <code>cd build</code>
